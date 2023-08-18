@@ -2,7 +2,7 @@
 
 Web-Site
 
-https://githubusercontent.cachefly.net/482884535/subscribe/master/subscribe.txt
+githubusercontent.cachefly.net/482884535/subscribe/master/subscribe.txt
 
 ssr / v2ray/ trojan
 
