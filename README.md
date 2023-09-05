@@ -1,6 +1,6 @@
 #  Subscribe
 
-Web-Site
+Web Site
 
 githubusercontent.cachefly.net/482884535/subscribe/master/subscribe.txt
 
